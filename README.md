@@ -13,12 +13,12 @@
 >
 > Master Robo is a simplified Windows Rubost Copy for all users
 >
-> Networ quick commands
+> Network quick commands
 >
-> Backup File History is a file that you change couple of lines then use it as you go to create time stamped files backup
+> Backup File History is a file that you change a couple of lines and then use as you go to create time-stamped files backup
 >
-> Desktop Filtering move most of your desktop files into folders based on their file type for easy view and archiving
+> Desktop Filtering moves most of your desktop files into folders based on their file type for easy viewing and archiving
 >
-> SCH_File system generator to generate projects file system for with subfolders
+> SCH_File system generator to generate projects file system with subfolders
 
 
